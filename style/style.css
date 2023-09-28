@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #AB2849;
+    height: 200px;
+}
+.div-top{
+    width: 100%;
+    background-color: #93B5C9;
+    height: 40%;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    height: 400px;
+}
+.center{
+    background-color: #AB2849;
+    height: 90px;
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 0;
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+    height: 100px;
+}
+.chield{
+    
+    border: 1px solid black;
+    background-color: #AB2849;  
+    width: 98%;
+}
